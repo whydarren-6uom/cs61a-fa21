@@ -1,0 +1,6 @@
+'prune_min-correct', (0, 70)
+'split-at-correct', (512, 70)
+'compose-all-correct', (1024, 70)
+'address_oneline-correct', (1536, 70)
+'opening-correct', (2048, 70)
+'double-correct', (2560, 70)
